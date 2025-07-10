@@ -5,7 +5,7 @@
 
 <section>
   <h2>🚀 Project Overview</h2>
-  <p>Patient Tracker is a web-based application designed to simplify and digitize the healthcare experience. It provides doctors and hospitals a secure platform for managing patient records, appointments, and data visualizations in real time.</p>
+  <p>healthcare-hub is a web-based application designed to simplify and digitize the healthcare experience. It provides doctors and hospitals a secure platform for managing patient records, appointments, and data visualizations in real time.</p>
 </section>
 
 <section>
