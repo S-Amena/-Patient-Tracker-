@@ -1,10 +1,7 @@
 <header>
   <h1>A Modern Healthcare Web App</h1>
   <p>A Modern, Secure, Real-Time Medical Record Management System</p>
-  <p><a href="https://github.com/sudharshan1234/patient-tracker">GitHub Repo</a> | 
-     <a href="https://patient-tracker.netlify.app/">Live Demo</a> | 
-     <a href="https://drive.google.com/file/d/1ByXmDDf5f02ykJiKm5nArGxdo-MyYFDj/view">Video Walkthrough</a></p>
-</header>
+
 
 <section>
   <h2>🚀 Project Overview</h2>
@@ -75,10 +72,6 @@
     <li>Interoperability with EHR systems</li>
   </ul>
 </section>
-
-<footer>
-  <p>Created by the CodeCells Team | M.Tech CSE – REVA University | 2025</p>
-</footer>
 
 </body>
 </html>
